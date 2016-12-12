@@ -9,12 +9,20 @@ h1{
   
 }
 .display{
-  width: 32%;
+  width: 33%;
+  height: 40%;
   text-align: center;
+  top: 0;
 }
 #artwork{
   float: left;
+  background-color: #4c4c4c;
+}
+#members{
+  text-align: center;
+  background-color: #b28a4a;
 }
 #mission{
   float: right;
+  background-color: #b25781;
 }
