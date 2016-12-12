@@ -1,0 +1,19 @@
+body{
+  background-color: "#594f72";
+  font-family: "Arial";
+  color: white;
+}
+h1{
+  text-align: center;
+  
+}
+.display{
+  width: 32%;
+  text-align: center;
+}
+#artwork{
+  float: left;
+}
+#mission{
+  float: right;
+}
