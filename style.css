@@ -2,11 +2,14 @@ body{
   background-color: #594f72;
   font-family: "Arial";
   color: white;
-  font-size: 64px;
 }
 h1{
   text-align: center;
-  
+  font-size: 60px !important;
+}
+h2{
+  text-align: center;
+  font-size: 30px !important;
 }
 #container{
   
@@ -15,7 +18,6 @@ h1{
   width: 33%;
   height: 300px;
   text-align: center;
-  top: 0;
   display: inline-block;
 }
 #artwork{
@@ -23,7 +25,7 @@ h1{
   background-color: #4c4c4c;
 }
 #members{
-  text-align: center;
+  
   background-color: #b28a4a;
 }
 #mission{
