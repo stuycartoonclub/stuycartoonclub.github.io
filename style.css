@@ -11,6 +11,7 @@ h2{
   text-align: center;
   font-size: 2em !important;
 }
+
 #announcements{
 	height: 50%;
 }
@@ -18,20 +19,32 @@ h2{
   bottom: 0;
 }
 .display{
-  width: 33%;
   height: 30%;
   text-align: center;
   display: inline-block;
+  overflow-y: auto;
+}
+.display p{
+  text-align: left;
 }
 #artwork{
+  width: 30%;
   float: left;
   background-color: #4c4c4c;
 }
 #members{
-  
+  width: 20%;
   background-color: #b28a4a;
 }
 #mission{
+  width: 50%;
   float: right;
   background-color: #b25781;
+}
+.image{
+	height: 30%;
+	width: auto;
+}
+.display2{
+	display: inline-block;
 }
