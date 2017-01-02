@@ -5,18 +5,21 @@ body{
 }
 h1{
   text-align: center;
-  font-size: 60px !important;
+  font-size: 2.5em !important;
 }
 h2{
   text-align: center;
-  font-size: 30px !important;
+  font-size: 2em !important;
+}
+#announcements{
+	height: 50%;
 }
 #container{
-  
+  bottom: 0;
 }
 .display{
   width: 33%;
-  height: 300px;
+  height: 30%;
   text-align: center;
   display: inline-block;
 }
